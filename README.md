@@ -26,7 +26,6 @@ An enterprise-grade **Self-Correcting Retrieval-Augmented Generation (RAG)** cha
 | **Vector Database** | Qdrant Cloud |
 | **Embedding Model** | Nomic-Embed-Text-v1.5 (768-D) |
 | **LLM Reasoning** | Elephant-Alpha / Gemini 2.0 (via OpenRouter) |
-| **API Framework** | FastAPI |
 | **Parsing Engine** | IBM Docling |
 
 ## 📊 Performance Metrics
